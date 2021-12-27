@@ -29,7 +29,7 @@ old tutorial: [https://www.reddit.com/r/themoddingofisaac/comments/3mub9c/ways_t
 | special | bool |  |
 | initcharge | int | (Example: Everything Jar[ ](#){: .rep .tooltip .badge }) |
 | devilprice | int | Possible values: ['1','2'] |
-| shopprice | int |  |
+| shopprice | int | (Example: R Key[ ](#){: .rep .tooltip .badge }) |
 | addcostumeonpickup | bool |  |
 | persistent | bool | allows the effect to persist between rooms |
 | achievement | int | tie the item to be unlocked by a vanilla achievement |
